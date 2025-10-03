@@ -4,7 +4,7 @@
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "first project js",
   "main": "bin/brain-games.js",
   "scripts": {
