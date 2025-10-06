@@ -8,7 +8,9 @@
   "description": "first project js",
   "main": "bin/brain-games.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js,.jsx",
+    "sonar": "sonar-scanner"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,11 @@
   "homepage": "https://github.com/KorotchenkoSV/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0",
+    "eslint-config-recommended": "^4.1.0",
+    "eslint-plugin-react": "^7.37.5",
+    "sonar-scanner": "^3.1.0"
   }
 }
