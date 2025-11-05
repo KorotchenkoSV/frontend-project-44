@@ -10,3 +10,4 @@
 - [Аскинему игры «Калькулятор»](https://asciinema.org/a/MYQGU6g4E77lbVV5jlm8dWV12)
 - [Аскинему игры «НОД»](https://asciinema.org/a/IP4qF8hA03t6eVIcYGWX3RkRu)
 - [Аскинему игры «Арифметическая прогрессия»](https://asciinema.org/a/yDnOXD6j4dNI9quIQ7riqWWuC)
+- [Аскинему игры «Простое ли число?»](https://asciinema.org/a/DREdP6xWB0hW48wwfINyAMOu4)
