@@ -12,17 +12,17 @@ const generateQuestion = () => {
   
   let correctAnswer;
   switch (operation) {
-    case '+':
-      correctAnswer = num1 + num2;
-      break;
-    case '-':
-      correctAnswer = num1 - num2;
-      break;
-    case '*':
-      correctAnswer = num1 * num2;
-      break;
-    default:
-      correctAnswer = 0;
+  case '+':
+    correctAnswer = num1 + num2;
+    break;
+  case '-':
+    correctAnswer = num1 - num2;
+    break;
+  case '*':
+    correctAnswer = num1 * num2;
+    break;
+  default:
+    correctAnswer = 0;
   }
   
   const question = `${num1} ${operation} ${num2}`;
