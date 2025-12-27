@@ -1,3 +1,3 @@
 // test.js
-const obj = {a: 1};
-console.log(obj);
+const obj = { a: 1 }
+console.log(obj)
