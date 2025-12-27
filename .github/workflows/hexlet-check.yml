@@ -16,7 +16,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
       - uses: actions/checkout@v4
+=======
+      - uses: actions/checkout@v6
+>>>>>>> bdf7e718b2c6700b39b9eef59a59d081ba2a0905
 
       - name: Hexlet project check
         uses: hexlet/project-action@release

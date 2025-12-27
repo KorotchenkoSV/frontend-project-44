@@ -1,4 +1,5 @@
 ### Hexlet tests and linter status:
+<<<<<<< HEAD
 [![Actions Status](https://github.com/KorotchenkoSV/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KorotchenkoSV/frontend-project-44/actions)
 
 # Frontend Project 44
@@ -11,3 +12,6 @@
 - [Аскинему игры «НОД»](https://asciinema.org/a/IP4qF8hA03t6eVIcYGWX3RkRu)
 - [Аскинему игры «Арифметическая прогрессия»](https://asciinema.org/a/yDnOXD6j4dNI9quIQ7riqWWuC)
 - [Аскинему игры «Простое ли число?»](https://asciinema.org/a/DREdP6xWB0hW48wwfINyAMOu4)
+=======
+[![Actions Status](https://github.com/KorotchenkoSV/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KorotchenkoSV/frontend-project-44/actions)
+>>>>>>> bdf7e718b2c6700b39b9eef59a59d081ba2a0905
